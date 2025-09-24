@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pythom_Ejercicio1", "Pythom_SEM_06\Pythom_Ejercicio1.pyproj", "{89DD0994-6848-4D82-8826-3BB47496B0F2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Ejercicio2", "Python_Ejercicio2\Python_Ejercicio2.pyproj", "{C50D64E3-8BA6-4F47-979D-8B0C1CF6BC91}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejercicio3_Python", "Ejercicio3_Python\Ejercicio3_Python.pyproj", "{580A2B17-21A3-448B-B27D-4E1CBBB1F666}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejercicio4_Python", "Ejercicio4_Python\Ejercicio4_Python.pyproj", "{A019BCCF-AE1E-4D70-AC94-ED6192E2C7F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DD0994-6848-4D82-8826-3BB47496B0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DD0994-6848-4D82-8826-3BB47496B0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50D64E3-8BA6-4F47-979D-8B0C1CF6BC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50D64E3-8BA6-4F47-979D-8B0C1CF6BC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580A2B17-21A3-448B-B27D-4E1CBBB1F666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580A2B17-21A3-448B-B27D-4E1CBBB1F666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A019BCCF-AE1E-4D70-AC94-ED6192E2C7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A019BCCF-AE1E-4D70-AC94-ED6192E2C7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA7C4DE-41BE-404E-B346-FDD188DF19BB}
+	EndGlobalSection
+EndGlobal
